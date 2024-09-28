@@ -29,6 +29,6 @@ public class ReturnElement {
             }
         }
 
-        return -1;
+        return Integer.MAX_VALUE;
     }
 }
